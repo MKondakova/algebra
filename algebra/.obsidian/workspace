@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "d3e5e971d45b640d",
+    "type": "split",
+    "children": [
+      {
+        "id": "204596c830d2940a",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eee4293ae2dfecb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbeefc54994b87ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac4e2924b3d2a586",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4d29d4495d6d4438",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4fcad736c58cd118",
+    "type": "split",
+    "children": [
+      {
+        "id": "4eb3a1a42c92e6c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c999b410a9571357",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Поле.md",
+    "Эндоморфизм Фробениуса.md",
+    "Совершенное поле.md",
+    "Конечное поле совершенное = любое алгебраическое дополнение сепарабельно.md",
+    "Расширение поля.md",
+    "Сепарабельное расширение.md",
+    "Аннулятор.md",
+    "Абелева группа.md",
+    "Инъекция.md",
+    "Алгебраическое замыкание.md"
+  ]
+}
