@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "cf26839a14c57407",
+        "id": "d1bcfc9d3412b065",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Любой многочлен обладает > 0 полями разложения.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Любой многочлен обладает > 0 полями разложения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +82,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Инъекция.md",
+    "Абелева группа.md",
+    "Коммутативность.md",
+    "Ассоциативность.md",
+    "Untitled.md",
     "Любой многочлен обладает > 0 полями разложения.md",
     "Поле разложения.md",
     "Экзамен/2 билет.md",
     "Экзамен/1 билет.md",
-    "Экзамен/Untitled.md",
-    "Теорема о башне расширений.md",
-    "Характеристика.md",
-    "Эндоморфизм Фробениуса.md",
-    "Алгебраическая ассоциативная алгебра без делителей нуля.md",
-    "Инъекция.md"
+    "Экзамен/Untitled.md"
   ]
 }
