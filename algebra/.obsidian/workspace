@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "d1bcfc9d3412b065",
+        "id": "8a0368aef630a533",
         "type": "leaf",
-        "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,9 +68,12 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -81,16 +86,17 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "8a0368aef630a533",
   "lastOpenFiles": [
-    "Инъекция.md",
-    "Абелева группа.md",
-    "Коммутативность.md",
-    "Ассоциативность.md",
     "Untitled.md",
-    "Любой многочлен обладает > 0 полями разложения.md",
-    "Поле разложения.md",
-    "Экзамен/2 билет.md",
-    "Экзамен/1 билет.md",
-    "Экзамен/Untitled.md"
+    "Конечное поле совершенное = любое алгебраическое дополнение сепарабельно.md",
+    "Экзамен/3 билет.md",
+    "Совершенное поле.md",
+    "Сепарабельное расширение.md",
+    "Алгебраическое расширение замкнуто.md",
+    "Алгебраическое замыкание.md",
+    "Алгебраические элементы.md",
+    "Алгебраическая ассоциативная алгебра без делителей нуля.md",
+    "Характеристика.md"
   ]
 }
